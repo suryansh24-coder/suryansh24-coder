@@ -1,5 +1,6 @@
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suryansh%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%" />
+</div>
 A passionate aspiring AI Engineer || Fast Learner || Enthusiastic about DSA 
 
 Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -12,7 +13,6 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 * 📫 **How to reach me:** [suryansh.01868@gmail.com](mailto:suryansh.01868@gmail.com)
 * 😄 **Pronouns:** Suryansh
 * ⚡ **Fun fact:** I enjoy exploring new technologies and continuously improving my technical skills
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-tiwari-6a9bb22b6) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/STiwari56675) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suryansh_024/) [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.01868@gmail.com) [![GSSoC](https://img.shields.io/badge/GSSoC-8A2BE2.svg?style=for-the-badge&logo=girlScript&logoColor=white)](https://gssoc.girlscript.org/profile/bd40ac5b-358c-4259-a3bb-53ae3cf4a817)
@@ -35,8 +35,6 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
   />
 </div>
 
-
-
 ### 📊 GitHub Stats 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suryansh24-coder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
@@ -45,7 +43,6 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh24-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
