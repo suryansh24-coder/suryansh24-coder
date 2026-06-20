@@ -1,5 +1,6 @@
-# 💫 Hi 👋, I'm Suryansh Tiwari
-**A passionate aspiring AI Engineer || Fast Learner || Enthusiastic about DSA 
+
+
+A passionate aspiring AI Engineer || Fast Learner || Enthusiastic about DSA 
 
 Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -12,9 +13,9 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 * 😄 **Pronouns:** Suryansh
 * ⚡ **Fun fact:** I enjoy exploring new technologies and continuously improving my technical skills
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-tiwari-6a9bb22b6) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/STiwari56675) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Suryansh_024/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryansh.01868@gmail.com) 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-tiwari-6a9bb22b6) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/STiwari56675) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suryansh_024/) [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.01868@gmail.com) [![GSSoC](https://img.shields.io/badge/GSSoC-8A2BE2.svg?style=for-the-badge&logo=girlScript&logoColor=white)](https://gssoc.girlscript.org/profile/bd40ac5b-358c-4259-a3bb-53ae3cf4a817)
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -22,7 +23,8 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 </div>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-01379B?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-6A0DAD?style=for-the-badge&logo=OpenAI&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit‑learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Enhanced Coding-Themed Animated SVG (Bigger Text + Attractive Font) -->
 
@@ -33,10 +35,17 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
   />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shrimukh0-cmyk&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shrimukh0-cmyk&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimukh0-cmyk&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+### 📊 GitHub Stats 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=suryansh24-coder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh24-coder&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh24-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
