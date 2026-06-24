@@ -35,6 +35,8 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
   />
 </div>
 
+<img width="1774" height="887" alt="1" src="https://github.com/user-attachments/assets/0c5bf368-9de2-41e4-921f-b3e10d716f34" />
+
 ### 📊 GitHub Stats 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=suryansh24-coder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
