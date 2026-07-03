@@ -38,15 +38,11 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 <img width="1774" height="887" alt="1" src="https://github.com/user-attachments/assets/0c5bf368-9de2-41e4-921f-b3e10d716f34" />
 
 ### 📊 GitHub Stats 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suryansh24-coder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh24-coder&theme=radical&hide_border=true" alt="GitHub Streak"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh24-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:00c2ff&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
