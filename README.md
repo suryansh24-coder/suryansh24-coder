@@ -34,8 +34,8 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
     alt="Coding animation"
   />
 </div>
+<img width="2172" height="724" alt="img" src="https://github.com/user-attachments/assets/f0042700-9e41-41e9-abec-a0bd0cb456ea" />
 
-<img width="1774" height="887" alt="1" src="https://github.com/user-attachments/assets/0c5bf368-9de2-41e4-921f-b3e10d716f34" />
 
 ### 📊 GitHub Stats 
 
