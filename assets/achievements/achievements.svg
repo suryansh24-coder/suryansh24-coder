@@ -1,1 +1,321 @@
 
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1100"
+     height="430"
+     viewBox="0 0 1100 430">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d16"/>
+      <stop offset="100%" stop-color="#101827"/>
+    </linearGradient>
+
+    <!-- First Card Gradient -->
+    <linearGradient id="goldBorder">
+      <stop offset="0%" stop-color="#fff0a6"/>
+      <stop offset="55%" stop-color="#ffd43b"/>
+      <stop offset="100%" stop-color="#ff6b00"/>
+    </linearGradient>
+
+    <!-- Second Card Gradient -->
+    <linearGradient id="purpleBorder">
+      <stop offset="0%" stop-color="#00e6ff"/>
+      <stop offset="50%" stop-color="#7c83ff"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+
+    <!-- Third Card Gradient -->
+    <linearGradient id="blueBorder">
+      <stop offset="0%" stop-color="#00e6ff"/>
+      <stop offset="50%" stop-color="#398cff"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- MAIN BACKGROUND -->
+  <rect width="1100" height="430" rx="20" fill="url(#background)"/>
+
+  <!-- HEADER -->
+  <text x="550" y="52"
+        fill="#f8fafc"
+        font-family="Arial, sans-serif"
+        font-size="26"
+        font-weight="bold"
+        letter-spacing="1.5"
+        text-anchor="middle">
+    ACHIEVEMENTS &amp; RECOGNITION
+  </text>
+
+  <line x1="70" y1="73" x2="1030" y2="73"
+        stroke="#263448" stroke-width="1"/>
+
+
+  <!-- ================================= -->
+  <!-- CARD 1: GDG TECHYUVA -->
+  <!-- ================================= -->
+
+  <g>
+
+    <rect x="30" y="100" width="330" height="275"
+          rx="23"
+          fill="#111827"
+          stroke="url(#goldBorder)"
+          stroke-width="2.8"
+          stroke-dasharray="19 10"/>
+
+    <!-- Icon -->
+    <circle cx="90" cy="158" r="29"
+            fill="#1b2230"
+            stroke="#ffca28"/>
+
+    <text x="90" y="169"
+          font-size="25"
+          text-anchor="middle">🏆</text>
+
+    <!-- Category -->
+    <text x="135" y="149"
+          fill="#ffca28"
+          font-family="Arial"
+          font-size="12"
+          font-weight="bold"
+          letter-spacing="1.5">
+      HACKATHON RECOGNITION
+    </text>
+
+    <text x="135" y="171"
+          fill="#a0aec0"
+          font-family="Arial"
+          font-size="11"
+          letter-spacing="1">
+      GDG × TECHYUVA
+    </text>
+
+    <!-- Achievement -->
+    <text x="65" y="250"
+          fill="#ffffff"
+          font-family="Arial"
+          font-size="43"
+          font-weight="bold">
+      2nd Place
+    </text>
+
+    <text x="65" y="283"
+          fill="#f1f5f9"
+          font-family="Arial"
+          font-size="19"
+          font-weight="bold">
+      Build-a-thon Winner
+    </text>
+
+    <text x="65" y="309"
+          fill="#cbd5e1"
+          font-family="Arial"
+          font-size="14">
+      GDG × TechYuva Build-a-thon
+    </text>
+
+    <!-- Footer -->
+    <line x1="65" y1="328" x2="325" y2="328"
+          stroke="#334155"/>
+
+    <text x="65" y="353"
+          fill="#94a3b8"
+          font-family="Arial"
+          font-size="10"
+          letter-spacing="1">
+      SELECTED AMONG
+    </text>
+
+    <text x="325" y="353"
+          fill="#ffca28"
+          font-family="Arial"
+          font-size="17"
+          font-weight="bold"
+          text-anchor="end">
+      1,200+ PARTICIPANTS
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 2: GSSOC 2026 -->
+  <!-- ================================= -->
+
+  <g>
+
+    <rect x="385" y="100" width="330" height="275"
+          rx="23"
+          fill="#111827"
+          stroke="url(#purpleBorder)"
+          stroke-width="2.8"
+          stroke-dasharray="19 10"/>
+
+    <!-- Icon -->
+    <circle cx="445" cy="158" r="29"
+            fill="#1b2230"
+            stroke="#818cf8"/>
+
+    <text x="445" y="168"
+          fill="#38bdf8"
+          font-size="25"
+          text-anchor="middle">🌐</text>
+
+    <!-- Category -->
+    <text x="490" y="149"
+          fill="#a5b4fc"
+          font-family="Arial"
+          font-size="12"
+          font-weight="bold"
+          letter-spacing="1.3">
+      OPEN-SOURCE RECOGNITION
+    </text>
+
+    <text x="490" y="171"
+          fill="#a0aec0"
+          font-family="Arial"
+          font-size="11"
+          letter-spacing="0.8">
+      GIRLSCRIPT SUMMER OF CODE · 2026
+    </text>
+
+    <!-- Achievement -->
+    <text x="420" y="250"
+          fill="#ffffff"
+          font-family="Arial"
+          font-size="47"
+          font-weight="bold">
+      #363
+    </text>
+
+    <text x="420" y="283"
+          fill="#f1f5f9"
+          font-family="Arial"
+          font-size="19"
+          font-weight="bold">
+      Global Rank
+    </text>
+
+    <text x="420" y="309"
+          fill="#cbd5e1"
+          font-family="Arial"
+          font-size="14">
+      GirlScript Summer of Code 2026
+    </text>
+
+    <!-- Footer -->
+    <line x1="420" y1="328" x2="680" y2="328"
+          stroke="#334155"/>
+
+    <text x="420" y="353"
+          fill="#94a3b8"
+          font-family="Arial"
+          font-size="10"
+          letter-spacing="1">
+      COMMUNITY
+    </text>
+
+    <text x="680" y="353"
+          fill="#c4b5fd"
+          font-family="Arial"
+          font-size="17"
+          font-weight="bold"
+          text-anchor="end">
+      OPEN SOURCE
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 3: INFRASHIFT HACKATHON -->
+  <!-- ================================= -->
+
+  <g>
+
+    <rect x="740" y="100" width="330" height="275"
+          rx="23"
+          fill="#111827"
+          stroke="url(#blueBorder)"
+          stroke-width="2.8"
+          stroke-dasharray="19 10"/>
+
+    <!-- Icon -->
+    <circle cx="800" cy="158" r="29"
+            fill="#1b2230"
+            stroke="#38bdf8"/>
+
+    <text x="800" y="168"
+          fill="#38bdf8"
+          font-size="25"
+          text-anchor="middle">🥉</text>
+
+    <!-- Category -->
+    <text x="845" y="149"
+          fill="#67e8f9"
+          font-family="Arial"
+          font-size="12"
+          font-weight="bold"
+          letter-spacing="1.2">
+      HACKATHON RECOGNITION
+    </text>
+
+    <text x="845" y="171"
+          fill="#a0aec0"
+          font-family="Arial"
+          font-size="12"
+          letter-spacing="0.8">
+      INFRASITY × ML.ai
+    </text>
+
+    <!-- Achievement -->
+    <text x="775" y="250"
+          fill="#ffffff"
+          font-family="Arial"
+          font-size="43"
+          font-weight="bold">
+      3rd Prize
+    </text>
+
+    <text x="775" y="283"
+          fill="#f1f5f9"
+          font-family="Arial"
+          font-size="19"
+          font-weight="bold">
+      Infrashift Hackathon
+    </text>
+
+    <text x="775" y="309"
+          fill="#cbd5e1"
+          font-family="Arial"
+          font-size="14">
+      Secured 3rd Position Overall
+    </text>
+
+    <!-- Footer -->
+    <line x1="775" y1="328" x2="1035" y2="328"
+          stroke="#334155"/>
+
+    <text x="775" y="353"
+          fill="#94a3b8"
+          font-family="Arial"
+          font-size="10"
+          letter-spacing="1">
+      COMPETITION
+    </text>
+
+    <text x="1035" y="353"
+          fill="#67e8f9"
+          font-family="Arial"
+          font-size="17"
+          font-weight="bold"
+          text-anchor="end">
+      847+ PARTICIPANTS
+    </text>
+
+  </g>
+
+</svg>
