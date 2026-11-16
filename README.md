@@ -15,7 +15,13 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 * ⚡ **Fun fact:** I enjoy exploring new technologies and continuously improving my technical skills
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-tiwari-6a9bb22b6) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/STiwari56675) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suryansh_024/) [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.01868@gmail.com) [![GSSoC](https://img.shields.io/badge/GSSoC-8A2BE2.svg?style=for-the-badge&logo=girlScript&logoColor=white)](https://gssoc.girlscript.org/profile/bd40ac5b-358c-4259-a3bb-53ae3cf4a817)
+<p align="center">
+  <a href="https://linkedin.com/in/suryansh-tiwari-6a9bb22b6"><img src="assets/socials/linkedin.svg" width="132" height="40" alt="LinkedIn" /></a>
+  <a href="https://x.com/STiwari56675"><img src="assets/socials/x.svg" width="132" height="40" alt="X / Twitter" /></a>
+  <a href="https://leetcode.com/u/Suryansh_024/"><img src="assets/socials/leetcode.svg" width="132" height="40" alt="LeetCode" /></a>
+  <a href="mailto:suryansh.01868@gmail.com"><img src="assets/socials/email.svg" width="132" height="40" alt="Email" /></a>
+  <a href="https://gssoc.girlscript.org/profile/bd40ac5b-358c-4259-a3bb-53ae3cf4a817"><img src="assets/socials/gssoc.svg" width="132" height="40" alt="GSSoC" /></a>
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -29,7 +35,9 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
 
 <!--- Achivement Section--->
 
-<img width="1100" height="430" alt="achievement-cards" src="https://github.com/user-attachments/assets/1f5ea7d8-6ea0-44c3-8d63-a2498a936d4e" />
+<div align="center">
+  <img width="100%" alt="achievement-cards" src="assets/achievements/achievements.svg" />
+</div>
 
 <!-- Enhanced Coding-Themed Animated SVG (Bigger Text + Attractive Font) -->
 
@@ -39,7 +47,9 @@ Email Me 👉 ✉️ **suryansh.01868@gmail.com** For Collaboration/Project or A
     alt="Coding animation"
   />
 </div>
-<img width="2172" height="724" alt="img" src="https://github.com/user-attachments/assets/f0042700-9e41-41e9-abec-a0bd0cb456ea" />
+<div align="center">
+  <img width="100%" alt="GSSoC Batches" src="assets/gssoc/gssoc-batches.svg" />
+</div>
 
 
 ### 📊 GitHub Stats 
